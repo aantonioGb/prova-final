@@ -10,6 +10,7 @@ public class ProdutosDTO {
     private String id;
     @NotBlank(message = "A marca deve ser preenchida.")
     private String marca;
+    @NotBlank(message = "O genero deve ser preenchido.")
     private String genero;
     private String indicadoPara;
     private List<Tenis> tenis;

@@ -14,6 +14,7 @@ public class TenisDTO {
     @Min(1950)
     private Integer anoLancamento;
     private String modelo;
+    @NotBlank(message = "A cor deve ser preenchida.")
     private String cor;
     @Positive
     private Double valor;
