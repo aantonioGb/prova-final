@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "tech4tenis"
+		},
+		{
+			"name": "tech4produtos",
+			"path": "tech4produtos"
+		},
+		{
+			"name": "zuul-server",
+			"path": "zuul-server"
+		},
+		{
+			"name": "eureka-server",
+			"path": "eureka-server"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
