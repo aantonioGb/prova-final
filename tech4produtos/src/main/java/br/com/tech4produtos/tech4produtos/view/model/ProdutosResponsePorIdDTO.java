@@ -1,4 +1,4 @@
-package br.com.tech4produtos.tech4produtos.view;
+package br.com.tech4produtos.tech4produtos.view.model;
 
 public class ProdutosResponsePorIdDTO {
     private String id;

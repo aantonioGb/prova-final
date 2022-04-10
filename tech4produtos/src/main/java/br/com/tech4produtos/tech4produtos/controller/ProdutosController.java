@@ -22,7 +22,7 @@ import org.springframework.web.bind.annotation.RestController;
 import br.com.tech4produtos.tech4produtos.dto.ProdutosComTenisDTO;
 import br.com.tech4produtos.tech4produtos.dto.ProdutosDTO;
 import br.com.tech4produtos.tech4produtos.service.ProdutosService;
-import br.com.tech4produtos.tech4produtos.view.ProdutosResponseDTO;
+import br.com.tech4produtos.tech4produtos.view.model.ProdutosResponseDTO;
 
 @RestController
 @RequestMapping("/api/produtos")
